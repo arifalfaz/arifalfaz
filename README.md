@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arif Ansari</h1>
+<h1 align="center">Hi 👋, I'm <b>Arif Ansari</b></h1>
 <h3 align="center">Full stack developer | Android developer | Java | DSA | Web App |</h3>
 <!-- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifalfaz&label=Profile%20views&color=0e75b6&style=flat" alt="arifalfaz" /> </p>
