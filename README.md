@@ -1,6 +1,7 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/gigagaming-a9254.appspot.com/o/ARIFALFAZ.png?alt=media&token=64d6559a-9c99-42ff-9d6d-0c577806441c)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm <b>Arif Ansari</b></h1>
 <h3 align="center">Full stack developer | Android developer | Java | DSA | Web App |</h3>
-<img align="right" alt="Coding" width="180" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="180" height="180" src="https://firebasestorage.googleapis.com/v0/b/gigagaming-a9254.appspot.com/o/1.png?alt=media&token=ab449069-8836-409c-be82-1413724d250a">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifalfaz&label=Profile%20views&color=0e75b6&style=flat" alt="arifalfaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifalfaz" alt="arifalfaz" /></a> </p>
@@ -25,7 +26,6 @@
 <p align="left">
 <a href="https://codepen.io/arifalfaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arifalfaz" height="30" width="40" /></a>
 <a href="https://dev.to/arifalfaz98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arifalfaz98" height="30" width="40" /></a>
-<a href="https://twitter.com/arifansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifansari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arifalfaz98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifalfaz98" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/arifalfaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arifalfaz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/elecsiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elecsiya" height="30" width="40" /></a>
