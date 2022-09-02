@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://drive.google.com/file/d/12mglsAYC9v7RkrEISdQWIRo5FKA-OPyR/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Arif Ansari</h1>
 <h3 align="center">Full stack developer | Android developer | Java | DSA | Web App |</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
