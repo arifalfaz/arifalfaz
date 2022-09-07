@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifalfaz" alt="arifalfaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ArifAns64410436" target="blank"><img src="https://img.shields.io/twitter/follow/ArifAns64410436?logo=twitter&style=for-the-badge" alt="ArifAns64410436" /></a> </p>
-
 - 🔭 I’m currently working on **Self Work**
 
 - 🌱 I’m currently learning **DSA Java && Web**
